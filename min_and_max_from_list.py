@@ -3,4 +3,5 @@ def compute_min_and_max() -> None:
 
 
 
-compute_min_and_max()
+if __name__ == "__main__":
+    compute_min_and_max()
