@@ -3,8 +3,10 @@
 Write the program that prompts the user for a list of numbers and prints out the maximum and minimum of the numbers at the end when the user enters “done”. Write the program to store the numbers the user enters in a list and use the `max()` and `min()` functions to compute the maximum and minimum numbers after the loop completes.
 
 ## Starter Code
+None given this time!
 
-Desired Output
+
+## Desired Output
 ```
 Enter a number: 6
 Enter a number: 2
@@ -16,3 +18,9 @@ Maximum: 9.0
 Minimum: 2.0
 ```
 
+## Hint
+Notice that the numbers of the expected Max and Min have decimals...
+
+
+## Test
+When your code is ready, run `pytest`
